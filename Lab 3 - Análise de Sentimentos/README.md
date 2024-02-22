@@ -15,8 +15,8 @@ O Language Studio é uma ferramenta poderosa que permite analisar textos em vár
 ## Aplicação nos Negócios
 Algumas possibilidades de implementação incluem:
 
-💬 Análise de feedback do cliente: empresas podem usar o Language Studio para analisar o feedback dos clientes em relação a seus produtos ou serviços. Por exemplo, uma empresa de varejo pode usar a ferramenta para analisar as avaliações dos clientes em seu site e identificar as áreas em que precisa melhorar.
+💬 **Análise de feedback do cliente**: empresas podem usar o Language Studio para analisar o feedback dos clientes em relação a seus produtos ou serviços. Por exemplo, uma empresa de varejo pode usar a ferramenta para analisar as avaliações dos clientes em seu site e identificar as áreas em que precisa melhorar.
 
-📲 Monitoramento de mídias sociais: o Language Studio pode ser usado para monitorar as mídias sociais e identificar o sentimento das pessoas em relação a uma marca, produto ou evento. Por exemplo, uma empresa pode usar a ferramenta para monitorar o X (antigo Twitter) e identificar as tendências de sentimento em relação a sua marca.
+📲 **Monitoramento de mídias sociais**: o Language Studio pode ser usado para monitorar as mídias sociais e identificar o sentimento das pessoas em relação a uma marca, produto ou evento. Por exemplo, uma empresa pode usar a ferramenta para monitorar o X (antigo Twitter) e identificar as tendências de sentimento em relação a sua marca.
 
-🔍 Análise de pesquisas: o Language Studio pode ser usado para analisar pesquisas e questionários e identificar as opiniões e sentimentos dos respondentes. Por exemplo, uma empresa pode usar a ferramenta para analisar as respostas de uma pesquisa de satisfação do cliente e identificar as áreas em que precisa melhorar.
+🔍 **Análise de pesquisas**: o Language Studio pode ser usado para analisar pesquisas e questionários e identificar as opiniões e sentimentos dos respondentes. Por exemplo, uma empresa pode usar a ferramenta para analisar as respostas de uma pesquisa de satisfação do cliente e identificar as áreas em que precisa melhorar.
