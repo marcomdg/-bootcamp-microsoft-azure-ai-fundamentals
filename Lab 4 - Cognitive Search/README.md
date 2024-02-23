@@ -37,14 +37,15 @@ A seguir temos em tela os arquivos que foram adicionados ao container através d
 ---
 ![Etapa5](https://github.com/marcomdg/-bootcamp-microsoft-azure-ai-fundamentals/blob/0cf430cde32696700eba342d1d0e3568cecfc7ae/Lab%204%20-%20Cognitive%20Search/files/Etapa5.png)
 
+
+---
 Mais adiante temos a possibilidade seguindo todos os passos da documentação, de poder finalmente realizar a pesquisa, por exemplo, para verificar 
-as ocorrências com sentimento negativo, como podemos ver abaixo
+as ocorrências com sentimento negativo, como podemos ver abaixo:
 
 ---
 ![Etapa6](https://github.com/marcomdg/-bootcamp-microsoft-azure-ai-fundamentals/blob/0cf430cde32696700eba342d1d0e3568cecfc7ae/Lab%204%20-%20Cognitive%20Search/files/Etapa%206.png)
 
 
----
 
 ---
 Para mais informações, consulte a [Documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) do laboratório sobre Azure Cognitive Search.
